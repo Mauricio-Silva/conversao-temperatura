@@ -1,7 +1,15 @@
-# Projeto conversão de temperatura
+# Jornada DevOps de Elite: Projeto conversão de temperatura
 
-### Sobre o projeto
-O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O projeto tem como objetivo ser um exemplo para a criação de ambiente com containers usando NodeJS.
+## Sobre o projeto
 
-### Observações do projeto
-A aplicação é exposta usando a porta 8080
+Aplicação desenvolvida em Node.JS com o objetivo de auxiliar no entendimento sobre o uso de Containers Docker para se executar uma aplicação,  servindo de base para a criação de uma imagem Docker construída a partir de um Dockerfile.
+
+## Observações do projeto
+
+Por padrão a aplicação é exposta na porta 8080
+
+## Perfil Docker Hub
+
+```bash
+silvamauricio/conversao-temperatura
+```
